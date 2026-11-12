@@ -56,6 +56,8 @@ uv pip install fastapi uvicorn requests watchfiles sentence-transformers duckdb 
 3. ### Running the Microservice Architecture
 This engine is designed to run completely decoupled. Open three separate terminal windows to spin up the architecture:
 
+
+
 #### Terminal 1: Start the API Server
 Keeps the engine and LLM hot in memory.
 

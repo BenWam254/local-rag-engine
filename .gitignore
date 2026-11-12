@@ -1,0 +1,27 @@
+# Environments
+.venv/
+venv/
+env/
+
+# Python caches
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Databasies & Indexes
+*.duckdb
+*.duckdb.wal
+
+# AI Models & HuggingFace Cache
+.cache/
+huggingface/
+models/
+
+# Local Vaults
+vault_samples/
+vault/
+Obsidian/
+
+# OS Files
+.DS Store
+Thumbs.db
